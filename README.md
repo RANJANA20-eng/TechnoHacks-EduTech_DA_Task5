@@ -1,7 +1,6 @@
 # TechnoHacks-EduTech_DA_Task5
 # Introduction :
  Removing duplicates from list operation has a large number of applications and hence, its knowledge is good to have in Python (for Data Analytics). 
- Ways to Remove duplicates from the list:
 # Ways :-
 Below are the methods for removing duplicates:
 1. Using set() method
